@@ -1,4 +1,4 @@
-# Query Registry [![Build Status](https://travis-ci.org/Islandora/query_registry.png?branch=7.x)](https://travis-ci.org/Islandora/query_registry)
+# Query Registry [![Build Status](https://travis-ci.org/discoverygarden/query_registry.png?branch=7.x)](https://travis-ci.org/discoverygarden/query_registry)
 
 ## Introduction
 
